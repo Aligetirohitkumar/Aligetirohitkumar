@@ -174,11 +174,7 @@ EDA revealing peak sales hours, product category trends & revenue drivers across
 ![Repos](https://img.shields.io/badge/Repositories-7-00D9FF?style=for-the-badge&logo=github&logoColor=white)
 ![Records](https://img.shields.io/badge/Records_Analyzed-500K+-00FF88?style=for-the-badge&logo=databricks&logoColor=white)
 ![Dashboards](https://img.shields.io/badge/Dashboards_Built-10+-FF6B6B?style=for-the-badge&logo=powerbi&logoColor=white)
-![Experience](https://img.shields.io/badge/Experience-2_Years-BD93F9?style=for-the-badge&logo=briefcase&logoColor=white)
-
-</div>
-
-<div align="center">
+![Experience](https://img.shields.io/badge/Experience-2_Years-BD93F9?style=for-the-badge&logo=buffer&logoColor=white)
 
 | 🏆 Achievement | 📊 Detail |
 |:---|:---|

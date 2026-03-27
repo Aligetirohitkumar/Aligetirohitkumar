@@ -11,16 +11,14 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&repeat=true&width=650&lines=Data+Analyst+%E2%86%92+2+Yrs+Professional+XP;SQL+%7C+Power+BI+%7C+Tableau+%7C+Python;500K%2B+Records+Analyzed+%F0%9F%93%8A;10%2B+Executive+Dashboards+Built+%E2%9C%85;M.S.+Data+Science+%40+Univ.+of+Memphis+%F0%9F%8E%93;Open+to+Opportunities+%F0%9F%9A%80)](https://github.com/Aligetirohitkumar)
 
-<img src="https://img.shields.io/badge/Memphis%2C%20TN-%2300D9FF?style=flat-square&logo=googlemaps&logoColor=black" />
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-%2300FF88?style=flat-square&logo=checkmarx&logoColor=black" />
-<img src="https://img.shields.io/badge/Experience-2%20Years-%23FF6B6B?style=flat-square" />
-<img src="https://komarev.com/ghpvc/?username=Aligetirohitkumar&style=flat-square&color=00D9FF&label=Profile+Views" />
+![Location](https://img.shields.io/badge/Memphis%2C%20TN-%2300D9FF?style=flat-square&logo=googlemaps&logoColor=black)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Work-%2300FF88?style=flat-square)
+![Experience](https://img.shields.io/badge/Experience-2%20Years-%23FF6B6B?style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Aligetirohitkumar&style=flat-square&color=00D9FF&label=Profile+Views)
 
 </div>
 
 ---
-
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=Aligetirohitkumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00FF88&text_color=FFFFFF&count_private=true" />
 
 ### `> whoami`
 
@@ -45,8 +43,6 @@ tools      = ["Jupyter", "Git", "VS Code", "Google Analytics"]
 core       = ["EDA", "KPI Reporting", "Dashboard Design", "A/B Testing"]
 ```
 
-<br clear="right"/>
-
 ---
 
 ## `📡 IMPACT METRICS`
@@ -62,6 +58,7 @@ core       = ["EDA", "KPI Reporting", "Dashboard Design", "A/B Testing"]
 | 🛍️ | Customer Transactions Profiled | **50K+** |
 | 📈 | Visualizations Delivered | **15+** |
 | 🌍 | Countries in COVID Analysis | **50+** |
+| ⚡ | Hours Saved Per Week | **5+** |
 
 </div>
 
@@ -76,9 +73,9 @@ core       = ["EDA", "KPI Reporting", "Dashboard Design", "A/B Testing"]
 ### 📊 Sales Performance Dashboard
 > **Power BI · SQL · Excel**
 
-Built an executive-grade real-time dashboard consolidating multi-source sales KPIs, revenue trends & team performance.
+Executive-grade real-time dashboard consolidating multi-source sales KPIs, revenue trends & team performance.
 
-⚡ Automated weekly refresh — **saved 5+ hrs/week**
+⚡ **Saved 5+ hrs/week** of manual reporting
 
 </td>
 <td width="50%">
@@ -86,7 +83,7 @@ Built an executive-grade real-time dashboard consolidating multi-source sales KP
 ### 🛍️ Customer Behavior Analysis
 > **Python · K-Means · RFM · Pandas**
 
-Segmented **50K+ transactions** using K-Means clustering & RFM analysis to surface high-value customers for targeted marketing.
+Segmented **50K+ transactions** using clustering & RFM analysis to surface high-value customers for targeted marketing.
 
 </td>
 </tr>
@@ -96,7 +93,7 @@ Segmented **50K+ transactions** using K-Means clustering & RFM analysis to surfa
 ### 🍽️ [Zomato Restaurant EDA](https://github.com/Aligetirohitkumar/Zomato-Data-Analysis)
 > **Python · Seaborn · Matplotlib**
 
-Deep EDA on **10K+ restaurant records** — exposed cost-vs-rating correlations, top cuisines & city-level demand with **15+ visualizations**.
+Deep EDA on **10K+ restaurant records** — cost-vs-rating correlations, top cuisines & city-level demand — **15+ visualizations**.
 
 </td>
 <td width="50%">
@@ -104,7 +101,7 @@ Deep EDA on **10K+ restaurant records** — exposed cost-vs-rating correlations,
 ### 🦠 [COVID-19 Global Analysis](https://github.com/Aligetirohitkumar/COVID-19-ANALYSIS)
 > **Python · Pandas · Time-Series**
 
-Time-series tracking across **50+ countries** — infection rates, recovery curves & mortality anomalies from messy public data.
+Time-series tracking across **50+ countries** — infection rates, recovery curves & mortality anomalies.
 
 </td>
 </tr>
@@ -114,7 +111,7 @@ Time-series tracking across **50+ countries** — infection rates, recovery curv
 ### 🌧️ [Rainfall Prediction Model](https://github.com/Aligetirohitkumar/Rainfall-Prediction-Data-Analysis-using-python)
 > **Python · Scikit-Learn · Jupyter**
 
-End-to-end ML pipeline: data cleaning → feature engineering → model training → evaluation. Forecasts rainfall from historical patterns.
+End-to-end ML pipeline: data cleaning → feature engineering → model training → evaluation.
 
 </td>
 <td width="50%">
@@ -171,8 +168,15 @@ EDA revealing peak sales hours, product category trends & revenue drivers across
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aligetirohitkumar&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" width="36%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aligetirohitkumar&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00FF88&currStreakLabel=00D9FF" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Aligetirohitkumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00FF88&text_color=FFFFFF&count_private=true&rank_icon=github" width="49%" alt="Rohit's GitHub Stats"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aligetirohitkumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=6" width="42%" alt="Top Languages"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=Aligetirohitkumar&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00FF88&currStreakLabel=00D9FF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=8B949E" width="55%" alt="GitHub Streak"/>
 
 </div>
 
@@ -199,18 +203,3 @@ EDA revealing peak sales hours, product category trends & revenue drivers across
 ⭐ **Star my repos if you find them useful — it means a lot!** ⭐
 
 </div>
-
-<!--
-**Aligetirohitkumar/Aligetirohitkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

@@ -11,10 +11,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&repeat=true&width=650&lines=Data+Analyst+%E2%86%92+2+Yrs+Professional+XP;SQL+%7C+Power+BI+%7C+Tableau+%7C+Python;500K%2B+Records+Analyzed+%F0%9F%93%8A;10%2B+Executive+Dashboards+Built+%E2%9C%85;M.S.+Data+Science+%40+Univ.+of+Memphis+%F0%9F%8E%93;Open+to+Opportunities+%F0%9F%9A%80)](https://github.com/Aligetirohitkumar)
 
-![Location](https://img.shields.io/badge/Memphis%2C%20TN-%2300D9FF?style=flat-square&logo=googlemaps&logoColor=black)
-![Status](https://img.shields.io/badge/Status-Open%20to%20Work-%2300FF88?style=flat-square)
-![Experience](https://img.shields.io/badge/Experience-2%20Years-%23FF6B6B?style=flat-square)
-![Profile Views](https://komarev.com/ghpvc/?username=Aligetirohitkumar&style=flat-square&color=00D9FF&label=Profile+Views)
+![Memphis TN](https://img.shields.io/badge/📍_Memphis%2C_TN-0D1117?style=flat-square&labelColor=0D1117&color=00D9FF)
+![Open to Work](https://img.shields.io/badge/🟢_Open_to_Work-0D1117?style=flat-square&labelColor=0D1117&color=00FF88)
+![Experience](https://img.shields.io/badge/⚡_2_Yrs_Experience-0D1117?style=flat-square&labelColor=0D1117&color=FF6B6B)
+![MS Data Science](https://img.shields.io/badge/🎓_M.S._Data_Science-0D1117?style=flat-square&labelColor=0D1117&color=BD93F9)
+![Profile Views](https://komarev.com/ghpvc/?username=Aligetirohitkumar&style=flat-square&color=00D9FF&label=👁️+Profile+Views)
 
 </div>
 
@@ -25,15 +26,15 @@
 ```yaml
 name        : Rohit Kumar Aligeti
 role        : Data Analyst
-experience  : 2 years @ GVS IT Solutions
+experience  : 2 years @ GVS IT Solutions, Hyderabad
 location    : Memphis, TN 🇺🇸
-education   : M.S. Data Science — Univ. of Memphis
+education   : M.S. Data Science — Univ. of Memphis (2025–Present)
 email       : r.aligeti@yahoo.com
 linkedin    : linkedin.com/in/raligeti
 status      : 🟢 Open to Opportunities
 ```
 
-### `> cat skills.txt`
+### `> python skills.py`
 
 ```python
 analytics  = ["Power BI", "Tableau", "Excel", "Google Sheets"]
@@ -41,6 +42,8 @@ databases  = ["MySQL", "PostgreSQL", "SQL Server"]
 code       = ["Python", "Pandas", "NumPy", "Scikit-Learn", "Seaborn"]
 tools      = ["Jupyter", "Git", "VS Code", "Google Analytics"]
 core       = ["EDA", "KPI Reporting", "Dashboard Design", "A/B Testing"]
+
+print("✓ All skills loaded successfully")
 ```
 
 ---
@@ -49,7 +52,7 @@ core       = ["EDA", "KPI Reporting", "Dashboard Design", "A/B Testing"]
 
 <div align="center">
 
-| 📊 | Metric | Result |
+| &nbsp; | Metric | Result |
 |:---:|:---|:---:|
 | 🗄️ | Records Queried & Analyzed | **500K+** |
 | 📋 | Executive Dashboards Automated | **10+** |
@@ -73,7 +76,7 @@ core       = ["EDA", "KPI Reporting", "Dashboard Design", "A/B Testing"]
 ### 📊 Sales Performance Dashboard
 > **Power BI · SQL · Excel**
 
-Executive-grade real-time dashboard consolidating multi-source sales KPIs, revenue trends & team performance.
+Executive-grade real-time dashboard consolidating multi-source sales KPIs, revenue trends & team performance across regions.
 
 ⚡ **Saved 5+ hrs/week** of manual reporting
 
@@ -83,7 +86,7 @@ Executive-grade real-time dashboard consolidating multi-source sales KPIs, reven
 ### 🛍️ Customer Behavior Analysis
 > **Python · K-Means · RFM · Pandas**
 
-Segmented **50K+ transactions** using clustering & RFM analysis to surface high-value customers for targeted marketing.
+Segmented **50K+ transactions** using K-Means clustering & RFM analysis to surface high-value customers for targeted marketing.
 
 </td>
 </tr>
@@ -101,7 +104,7 @@ Deep EDA on **10K+ restaurant records** — cost-vs-rating correlations, top cui
 ### 🦠 [COVID-19 Global Analysis](https://github.com/Aligetirohitkumar/COVID-19-ANALYSIS)
 > **Python · Pandas · Time-Series**
 
-Time-series tracking across **50+ countries** — infection rates, recovery curves & mortality anomalies.
+Time-series tracking across **50+ countries** — infection rates, recovery curves & mortality anomalies from messy public data.
 
 </td>
 </tr>
@@ -111,7 +114,7 @@ Time-series tracking across **50+ countries** — infection rates, recovery curv
 ### 🌧️ [Rainfall Prediction Model](https://github.com/Aligetirohitkumar/Rainfall-Prediction-Data-Analysis-using-python)
 > **Python · Scikit-Learn · Jupyter**
 
-End-to-end ML pipeline: data cleaning → feature engineering → model training → evaluation.
+End-to-end ML pipeline: data cleaning → feature engineering → model training → evaluation. Forecasts rainfall from historical patterns.
 
 </td>
 <td width="50%">
@@ -136,7 +139,7 @@ EDA revealing peak sales hours, product category trends & revenue drivers across
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 
 **[ DATABASES & SQL ]**
 
@@ -157,7 +160,7 @@ EDA revealing peak sales hours, product category trends & revenue drivers across
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
 
 </div>
@@ -168,15 +171,23 @@ EDA revealing peak sales hours, product category trends & revenue drivers across
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aligetirohitkumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00FF88&text_color=FFFFFF&count_private=true&rank_icon=github" width="49%" alt="Rohit's GitHub Stats"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aligetirohitkumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=6" width="42%" alt="Top Languages"/>
+![Repos](https://img.shields.io/badge/Repositories-7-00D9FF?style=for-the-badge&logo=github&logoColor=white)
+![Records](https://img.shields.io/badge/Records_Analyzed-500K+-00FF88?style=for-the-badge&logo=databricks&logoColor=white)
+![Dashboards](https://img.shields.io/badge/Dashboards_Built-10+-FF6B6B?style=for-the-badge&logo=powerbi&logoColor=white)
+![Experience](https://img.shields.io/badge/Experience-2_Years-BD93F9?style=for-the-badge&logo=briefcase&logoColor=white)
 
 </div>
 
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Aligetirohitkumar&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00FF88&currStreakLabel=00D9FF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=8B949E" width="55%" alt="GitHub Streak"/>
+| 🏆 Achievement | 📊 Detail |
+|:---|:---|
+| 🗄️ Data Scale | Analyzed datasets with **500K+ records** using SQL & Python |
+| 📊 BI Expertise | Built **10+ Power BI & Tableau** executive dashboards |
+| ⏱️ Efficiency | Automated reporting — cut manual work by **35%** |
+| 🎯 Quality | Data quality audits improved accuracy by **25%** |
+| 🤖 ML Skills | End-to-end ML pipelines with Scikit-Learn |
+| 🌍 Impact | Insights delivered across Healthcare, Retail & F&B domains |
 
 </div>
 
